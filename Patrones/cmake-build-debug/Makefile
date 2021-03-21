@@ -143,32 +143,32 @@ Patrones/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/build
 .PHONY : Patrones/fast
 
-EventListener/Approved.o: EventListener/Approved.cpp.o
+EventListener/CheckedStudents.o: EventListener/CheckedStudents.cpp.o
 
-.PHONY : EventListener/Approved.o
+.PHONY : EventListener/CheckedStudents.o
 
 # target to build an object file
-EventListener/Approved.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/Approved.cpp.o
-.PHONY : EventListener/Approved.cpp.o
+EventListener/CheckedStudents.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/CheckedStudents.cpp.o
+.PHONY : EventListener/CheckedStudents.cpp.o
 
-EventListener/Approved.i: EventListener/Approved.cpp.i
+EventListener/CheckedStudents.i: EventListener/CheckedStudents.cpp.i
 
-.PHONY : EventListener/Approved.i
+.PHONY : EventListener/CheckedStudents.i
 
 # target to preprocess a source file
-EventListener/Approved.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/Approved.cpp.i
-.PHONY : EventListener/Approved.cpp.i
+EventListener/CheckedStudents.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/CheckedStudents.cpp.i
+.PHONY : EventListener/CheckedStudents.cpp.i
 
-EventListener/Approved.s: EventListener/Approved.cpp.s
+EventListener/CheckedStudents.s: EventListener/CheckedStudents.cpp.s
 
-.PHONY : EventListener/Approved.s
+.PHONY : EventListener/CheckedStudents.s
 
 # target to generate assembly for a file
-EventListener/Approved.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/Approved.cpp.s
-.PHONY : EventListener/Approved.cpp.s
+EventListener/CheckedStudents.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/CheckedStudents.cpp.s
+.PHONY : EventListener/CheckedStudents.cpp.s
 
 EventListener/Grades.o: EventListener/Grades.cpp.o
 
@@ -224,86 +224,59 @@ EventListener/Statistics.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/Statistics.cpp.s
 .PHONY : EventListener/Statistics.cpp.s
 
-Lists/ListInt.o: Lists/ListInt.cpp.o
+EventManager/EvManager.o: EventManager/EvManager.cpp.o
 
-.PHONY : Lists/ListInt.o
-
-# target to build an object file
-Lists/ListInt.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListInt.cpp.o
-.PHONY : Lists/ListInt.cpp.o
-
-Lists/ListInt.i: Lists/ListInt.cpp.i
-
-.PHONY : Lists/ListInt.i
-
-# target to preprocess a source file
-Lists/ListInt.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListInt.cpp.i
-.PHONY : Lists/ListInt.cpp.i
-
-Lists/ListInt.s: Lists/ListInt.cpp.s
-
-.PHONY : Lists/ListInt.s
-
-# target to generate assembly for a file
-Lists/ListInt.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListInt.cpp.s
-.PHONY : Lists/ListInt.cpp.s
-
-Lists/ListStr.o: Lists/ListStr.cpp.o
-
-.PHONY : Lists/ListStr.o
+.PHONY : EventManager/EvManager.o
 
 # target to build an object file
-Lists/ListStr.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListStr.cpp.o
-.PHONY : Lists/ListStr.cpp.o
+EventManager/EvManager.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventManager/EvManager.cpp.o
+.PHONY : EventManager/EvManager.cpp.o
 
-Lists/ListStr.i: Lists/ListStr.cpp.i
+EventManager/EvManager.i: EventManager/EvManager.cpp.i
 
-.PHONY : Lists/ListStr.i
+.PHONY : EventManager/EvManager.i
 
 # target to preprocess a source file
-Lists/ListStr.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListStr.cpp.i
-.PHONY : Lists/ListStr.cpp.i
+EventManager/EvManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventManager/EvManager.cpp.i
+.PHONY : EventManager/EvManager.cpp.i
 
-Lists/ListStr.s: Lists/ListStr.cpp.s
+EventManager/EvManager.s: EventManager/EvManager.cpp.s
 
-.PHONY : Lists/ListStr.s
+.PHONY : EventManager/EvManager.s
 
 # target to generate assembly for a file
-Lists/ListStr.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListStr.cpp.s
-.PHONY : Lists/ListStr.cpp.s
+EventManager/EvManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventManager/EvManager.cpp.s
+.PHONY : EventManager/EvManager.cpp.s
 
-Lists/ListSubs.o: Lists/ListSubs.cpp.o
+Lists/List.o: Lists/List.cpp.o
 
-.PHONY : Lists/ListSubs.o
+.PHONY : Lists/List.o
 
 # target to build an object file
-Lists/ListSubs.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListSubs.cpp.o
-.PHONY : Lists/ListSubs.cpp.o
+Lists/List.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/List.cpp.o
+.PHONY : Lists/List.cpp.o
 
-Lists/ListSubs.i: Lists/ListSubs.cpp.i
+Lists/List.i: Lists/List.cpp.i
 
-.PHONY : Lists/ListSubs.i
+.PHONY : Lists/List.i
 
 # target to preprocess a source file
-Lists/ListSubs.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListSubs.cpp.i
-.PHONY : Lists/ListSubs.cpp.i
+Lists/List.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/List.cpp.i
+.PHONY : Lists/List.cpp.i
 
-Lists/ListSubs.s: Lists/ListSubs.cpp.s
+Lists/List.s: Lists/List.cpp.s
 
-.PHONY : Lists/ListSubs.s
+.PHONY : Lists/List.s
 
 # target to generate assembly for a file
-Lists/ListSubs.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListSubs.cpp.s
-.PHONY : Lists/ListSubs.cpp.s
+Lists/List.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/List.cpp.s
+.PHONY : Lists/List.cpp.s
 
 main.o: main.cpp.o
 
@@ -341,24 +314,21 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Patrones"
-	@echo "... EventListener/Approved.o"
-	@echo "... EventListener/Approved.i"
-	@echo "... EventListener/Approved.s"
+	@echo "... EventListener/CheckedStudents.o"
+	@echo "... EventListener/CheckedStudents.i"
+	@echo "... EventListener/CheckedStudents.s"
 	@echo "... EventListener/Grades.o"
 	@echo "... EventListener/Grades.i"
 	@echo "... EventListener/Grades.s"
 	@echo "... EventListener/Statistics.o"
 	@echo "... EventListener/Statistics.i"
 	@echo "... EventListener/Statistics.s"
-	@echo "... Lists/ListInt.o"
-	@echo "... Lists/ListInt.i"
-	@echo "... Lists/ListInt.s"
-	@echo "... Lists/ListStr.o"
-	@echo "... Lists/ListStr.i"
-	@echo "... Lists/ListStr.s"
-	@echo "... Lists/ListSubs.o"
-	@echo "... Lists/ListSubs.i"
-	@echo "... Lists/ListSubs.s"
+	@echo "... EventManager/EvManager.o"
+	@echo "... EventManager/EvManager.i"
+	@echo "... EventManager/EvManager.s"
+	@echo "... Lists/List.o"
+	@echo "... Lists/List.i"
+	@echo "... Lists/List.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

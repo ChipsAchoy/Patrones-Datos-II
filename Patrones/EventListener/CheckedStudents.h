@@ -2,22 +2,23 @@
 // Created by anthony on 21/3/21.
 //
 
-#ifndef PATRONES_GRADES_H
-#define PATRONES_GRADES_H
+#ifndef PATRONES_CHECKEDSTUDENTS_H
+#define PATRONES_CHECKEDSTUDENTS_H
 
-
+#include "string"
 #include "Subscriber.h"
-#include "CheckedStudents.h"
-#include <iostream>
+#include "../Lists/List.h"
 
 using namespace std;
-class Grades: public Subscriber {
+
+class CheckedStudents: public Subscriber {
     public:
         List * students = new List();
         int counter = counter;
         void update(float grade, int id, string name, int counter);
-        void printGrades();
+        void printNames();
+
 };
 
 
-#endif //PATRONES_GRADES_H
+#endif //PATRONES_CHECKEDSTUDENTS_H

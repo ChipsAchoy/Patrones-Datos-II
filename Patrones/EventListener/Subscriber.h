@@ -9,7 +9,8 @@
 using namespace std;
 
 class Subscriber {
-    virtual void update(int grade, int id, string name, int counter);
+    public:
+        virtual void update(float grade, int id, string name, int counter) = 0;
 };
 
 

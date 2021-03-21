@@ -82,10 +82,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Approved.cpp">
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/CheckedStudents.cpp">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Approved.h">
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/CheckedStudents.h">
 			<Option target="Patrones"/>
 		</Unit>
 		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Grades.cpp">
@@ -103,22 +103,19 @@
 		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Subscriber.h">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/ListInt.cpp">
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventManager/EvManager.cpp">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/ListInt.h">
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventManager/EvManager.h">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/ListStr.cpp">
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/List.cpp">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/ListStr.h">
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/List.h">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/ListSubs.cpp">
-			<Option target="Patrones"/>
-		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/ListSubs.h">
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/Node.h">
 			<Option target="Patrones"/>
 		</Unit>
 		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/main.cpp">

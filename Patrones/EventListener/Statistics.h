@@ -7,16 +7,20 @@
 
 
 #include "Subscriber.h"
+#include "CheckedStudents.h"
+#include <iostream>
+
+using namespace std;
 
 class Statistics: public Subscriber {
-
-    int * grades;
-
-    void update(int grade, int id, string name, int counter);
-    int getMax();
-    int getMin();
-    int getMean();
-    void printStats();
+    public:
+        List * students = new List();
+        int counter = counter;
+        float max = 0;
+        float min = 100;
+        float mean = 0;
+        void update(float grade, int id, string name, int counter);
+        void printStats();
 };
 
 
