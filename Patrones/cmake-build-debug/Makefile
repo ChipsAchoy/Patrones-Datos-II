@@ -143,6 +143,168 @@ Patrones/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/build
 .PHONY : Patrones/fast
 
+EventListener/Approved.o: EventListener/Approved.cpp.o
+
+.PHONY : EventListener/Approved.o
+
+# target to build an object file
+EventListener/Approved.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/Approved.cpp.o
+.PHONY : EventListener/Approved.cpp.o
+
+EventListener/Approved.i: EventListener/Approved.cpp.i
+
+.PHONY : EventListener/Approved.i
+
+# target to preprocess a source file
+EventListener/Approved.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/Approved.cpp.i
+.PHONY : EventListener/Approved.cpp.i
+
+EventListener/Approved.s: EventListener/Approved.cpp.s
+
+.PHONY : EventListener/Approved.s
+
+# target to generate assembly for a file
+EventListener/Approved.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/Approved.cpp.s
+.PHONY : EventListener/Approved.cpp.s
+
+EventListener/Grades.o: EventListener/Grades.cpp.o
+
+.PHONY : EventListener/Grades.o
+
+# target to build an object file
+EventListener/Grades.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/Grades.cpp.o
+.PHONY : EventListener/Grades.cpp.o
+
+EventListener/Grades.i: EventListener/Grades.cpp.i
+
+.PHONY : EventListener/Grades.i
+
+# target to preprocess a source file
+EventListener/Grades.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/Grades.cpp.i
+.PHONY : EventListener/Grades.cpp.i
+
+EventListener/Grades.s: EventListener/Grades.cpp.s
+
+.PHONY : EventListener/Grades.s
+
+# target to generate assembly for a file
+EventListener/Grades.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/Grades.cpp.s
+.PHONY : EventListener/Grades.cpp.s
+
+EventListener/Statistics.o: EventListener/Statistics.cpp.o
+
+.PHONY : EventListener/Statistics.o
+
+# target to build an object file
+EventListener/Statistics.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/Statistics.cpp.o
+.PHONY : EventListener/Statistics.cpp.o
+
+EventListener/Statistics.i: EventListener/Statistics.cpp.i
+
+.PHONY : EventListener/Statistics.i
+
+# target to preprocess a source file
+EventListener/Statistics.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/Statistics.cpp.i
+.PHONY : EventListener/Statistics.cpp.i
+
+EventListener/Statistics.s: EventListener/Statistics.cpp.s
+
+.PHONY : EventListener/Statistics.s
+
+# target to generate assembly for a file
+EventListener/Statistics.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/EventListener/Statistics.cpp.s
+.PHONY : EventListener/Statistics.cpp.s
+
+Lists/ListInt.o: Lists/ListInt.cpp.o
+
+.PHONY : Lists/ListInt.o
+
+# target to build an object file
+Lists/ListInt.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListInt.cpp.o
+.PHONY : Lists/ListInt.cpp.o
+
+Lists/ListInt.i: Lists/ListInt.cpp.i
+
+.PHONY : Lists/ListInt.i
+
+# target to preprocess a source file
+Lists/ListInt.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListInt.cpp.i
+.PHONY : Lists/ListInt.cpp.i
+
+Lists/ListInt.s: Lists/ListInt.cpp.s
+
+.PHONY : Lists/ListInt.s
+
+# target to generate assembly for a file
+Lists/ListInt.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListInt.cpp.s
+.PHONY : Lists/ListInt.cpp.s
+
+Lists/ListStr.o: Lists/ListStr.cpp.o
+
+.PHONY : Lists/ListStr.o
+
+# target to build an object file
+Lists/ListStr.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListStr.cpp.o
+.PHONY : Lists/ListStr.cpp.o
+
+Lists/ListStr.i: Lists/ListStr.cpp.i
+
+.PHONY : Lists/ListStr.i
+
+# target to preprocess a source file
+Lists/ListStr.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListStr.cpp.i
+.PHONY : Lists/ListStr.cpp.i
+
+Lists/ListStr.s: Lists/ListStr.cpp.s
+
+.PHONY : Lists/ListStr.s
+
+# target to generate assembly for a file
+Lists/ListStr.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListStr.cpp.s
+.PHONY : Lists/ListStr.cpp.s
+
+Lists/ListSubs.o: Lists/ListSubs.cpp.o
+
+.PHONY : Lists/ListSubs.o
+
+# target to build an object file
+Lists/ListSubs.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListSubs.cpp.o
+.PHONY : Lists/ListSubs.cpp.o
+
+Lists/ListSubs.i: Lists/ListSubs.cpp.i
+
+.PHONY : Lists/ListSubs.i
+
+# target to preprocess a source file
+Lists/ListSubs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListSubs.cpp.i
+.PHONY : Lists/ListSubs.cpp.i
+
+Lists/ListSubs.s: Lists/ListSubs.cpp.s
+
+.PHONY : Lists/ListSubs.s
+
+# target to generate assembly for a file
+Lists/ListSubs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Patrones.dir/build.make CMakeFiles/Patrones.dir/Lists/ListSubs.cpp.s
+.PHONY : Lists/ListSubs.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -179,6 +341,24 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Patrones"
+	@echo "... EventListener/Approved.o"
+	@echo "... EventListener/Approved.i"
+	@echo "... EventListener/Approved.s"
+	@echo "... EventListener/Grades.o"
+	@echo "... EventListener/Grades.i"
+	@echo "... EventListener/Grades.s"
+	@echo "... EventListener/Statistics.o"
+	@echo "... EventListener/Statistics.i"
+	@echo "... EventListener/Statistics.s"
+	@echo "... Lists/ListInt.o"
+	@echo "... Lists/ListInt.i"
+	@echo "... Lists/ListInt.s"
+	@echo "... Lists/ListStr.o"
+	@echo "... Lists/ListStr.i"
+	@echo "... Lists/ListStr.s"
+	@echo "... Lists/ListSubs.o"
+	@echo "... Lists/ListSubs.i"
+	@echo "... Lists/ListSubs.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

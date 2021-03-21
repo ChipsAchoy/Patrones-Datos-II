@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Patrones.dir/main.cpp.o  -o Patrones 
+/usr/bin/c++  -g   CMakeFiles/Patrones.dir/main.cpp.o CMakeFiles/Patrones.dir/EventListener/Grades.cpp.o CMakeFiles/Patrones.dir/EventListener/Statistics.cpp.o CMakeFiles/Patrones.dir/EventListener/Approved.cpp.o CMakeFiles/Patrones.dir/Lists/ListInt.cpp.o CMakeFiles/Patrones.dir/Lists/ListStr.cpp.o CMakeFiles/Patrones.dir/Lists/ListSubs.cpp.o  -o Patrones 

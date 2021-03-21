@@ -82,6 +82,45 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Approved.cpp">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Approved.h">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Grades.cpp">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Grades.h">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Statistics.cpp">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Statistics.h">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Subscriber.h">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/ListInt.cpp">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/ListInt.h">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/ListStr.cpp">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/ListStr.h">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/ListSubs.cpp">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/ListSubs.h">
+			<Option target="Patrones"/>
+		</Unit>
 		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/main.cpp">
 			<Option target="Patrones"/>
 		</Unit>
