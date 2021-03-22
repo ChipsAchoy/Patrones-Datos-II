@@ -1,9 +1,11 @@
 
 #include <iostream>
-#include "EventManager/EvManager.h"
-#include "EventListener/CheckedStudents.h"
-#include "EventListener/Grades.h"
-#include "EventListener/Statistics.h"
+#include "Observer/EventManager/EvManager.h"
+#include "Observer/EventListener/CheckedStudents.h"
+#include "Observer/EventListener/Grades.h"
+#include "Observer/EventListener/Statistics.h"
+#include "Facade/LoggingManager/LoggingManager.h"
+
 
 /**
  * Aplicacion que utiliza el patron observer
@@ -23,4 +25,16 @@ int main() {
     editor->notify(87.8, 202004578, "Jennifer");
     editor->notify(65.8, 202004428, "Guisselle");
     editor->notify(74.2, 201404176, "Yulian");
+
+
+
+    LoggingManager loggingManager;
+    loggingManager.signIn("Pablo", "manzana");
+    loggingManager.signIn("Antony", "pera");
+    loggingManager.signIn("Jose", "arrozconpollo");
+    loggingManager.signIn("Fabian", "computadora");
+
+    loggingManager.logging("Jose", "arrozconpollo");
+
+
 }

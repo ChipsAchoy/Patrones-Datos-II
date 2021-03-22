@@ -8,120 +8,132 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug"/>
+				<Option working_dir="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug"/>
+				<Option working_dir="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Patrones">
-				<Option output="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Patrones" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug"/>
+				<Option output="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Patrones.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/10"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
-					<Add directory="/usr/include/c++/10/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 Patrones"/>
-					<CompileFile command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 Patrones"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Patrones/fast">
-				<Option output="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Patrones" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug"/>
+				<Option output="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Patrones.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/10"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
-					<Add directory="/usr/include/c++/10/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 Patrones/fast"/>
-					<CompileFile command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -f &quot;/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 Patrones/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/CheckedStudents.cpp">
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Facade/LoggingManager/LoggingManager.cpp">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/CheckedStudents.h">
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Facade/LoggingManager/LoggingManager.h">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Grades.cpp">
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Facade/LoggingManager/Register/Register.cpp">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Grades.h">
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Facade/LoggingManager/Register/Register.h">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Statistics.cpp">
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Observer/EventListener/CheckedStudents.cpp">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Statistics.h">
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Observer/EventListener/CheckedStudents.h">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventListener/Subscriber.h">
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Observer/EventListener/Grades.cpp">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventManager/EvManager.cpp">
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Observer/EventListener/Grades.h">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/EventManager/EvManager.h">
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Observer/EventListener/Statistics.cpp">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/List.cpp">
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Observer/EventListener/Statistics.h">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/List.h">
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Observer/EventListener/Subscriber.h">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/Lists/Node.h">
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Observer/EventManager/EvManager.cpp">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/main.cpp">
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Observer/EventManager/EvManager.h">
 			<Option target="Patrones"/>
 		</Unit>
-		<Unit filename="/home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/CMakeLists.txt">
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Observer/Lists/List.cpp">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Observer/Lists/List.h">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/Observer/Lists/Node.h">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/main.cpp">
+			<Option target="Patrones"/>
+		</Unit>
+		<Unit filename="C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

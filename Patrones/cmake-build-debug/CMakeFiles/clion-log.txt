@@ -1,4 +1,4 @@
-/snap/clion/145/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones
+"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\jpabl\Documents\GitHub\Patrones-Datos-II\Patrones
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/anthony/Desktop/RepositoriosGit/PatronesDatos2/Patrones/cmake-build-debug
+-- Build files have been written to: C:/Users/jpabl/Documents/GitHub/Patrones-Datos-II/Patrones/cmake-build-debug
