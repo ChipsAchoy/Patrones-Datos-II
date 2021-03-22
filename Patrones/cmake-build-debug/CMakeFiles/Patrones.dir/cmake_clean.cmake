@@ -1,12 +1,16 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Patrones.dir/EventListener/CheckedStudents.cpp.o"
-  "CMakeFiles/Patrones.dir/EventListener/Grades.cpp.o"
-  "CMakeFiles/Patrones.dir/EventListener/Statistics.cpp.o"
-  "CMakeFiles/Patrones.dir/EventManager/EvManager.cpp.o"
-  "CMakeFiles/Patrones.dir/Lists/List.cpp.o"
-  "CMakeFiles/Patrones.dir/main.cpp.o"
-  "Patrones"
+  "CMakeFiles/Patrones.dir/Facade/LoggingManager/LoggingManager.cpp.obj"
+  "CMakeFiles/Patrones.dir/Facade/LoggingManager/Register/Register.cpp.obj"
+  "CMakeFiles/Patrones.dir/Observer/EventListener/CheckedStudents.cpp.obj"
+  "CMakeFiles/Patrones.dir/Observer/EventListener/Grades.cpp.obj"
+  "CMakeFiles/Patrones.dir/Observer/EventListener/Statistics.cpp.obj"
+  "CMakeFiles/Patrones.dir/Observer/EventManager/EvManager.cpp.obj"
+  "CMakeFiles/Patrones.dir/Observer/Lists/List.cpp.obj"
+  "CMakeFiles/Patrones.dir/main.cpp.obj"
+  "Patrones.exe"
+  "Patrones.exe.manifest"
   "Patrones.pdb"
+  "libPatrones.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,1 +1,3 @@
-/usr/bin/c++  -g   CMakeFiles/Patrones.dir/main.cpp.o CMakeFiles/Patrones.dir/EventListener/Grades.cpp.o CMakeFiles/Patrones.dir/EventListener/Statistics.cpp.o CMakeFiles/Patrones.dir/EventListener/CheckedStudents.cpp.o CMakeFiles/Patrones.dir/Lists/List.cpp.o CMakeFiles/Patrones.dir/EventManager/EvManager.cpp.o  -o Patrones 
+"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Patrones.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Patrones.dir/objects.a @CMakeFiles\Patrones.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Patrones.dir/objects.a -Wl,--no-whole-archive  -o Patrones.exe -Wl,--out-implib,libPatrones.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Patrones.dir\linklibs.rsp
