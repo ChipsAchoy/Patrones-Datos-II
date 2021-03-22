@@ -12,38 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00dabf7f-3ae4-4398-a274-ad6c33478645" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EventListener/CheckedStudents.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventManager/EvManager.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/List.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/List.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/Node.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventListener/Approved.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventListener/Approved.h" beforeDir="false" afterPath="$PROJECT_DIR$/EventListener/CheckedStudents.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventListener/Grades.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/EventListener/Grades.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventListener/CheckedStudents.h" beforeDir="false" afterPath="$PROJECT_DIR$/EventListener/CheckedStudents.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EventListener/Grades.h" beforeDir="false" afterPath="$PROJECT_DIR$/EventListener/Grades.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventListener/Statistics.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/EventListener/Statistics.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EventListener/Statistics.h" beforeDir="false" afterPath="$PROJECT_DIR$/EventListener/Statistics.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EventListener/Subscriber.h" beforeDir="false" afterPath="$PROJECT_DIR$/EventListener/Subscriber.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/ListInt.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/ListInt.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/ListStr.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/EventManager/EvManager.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/ListStr.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/ListSubs.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/ListSubs.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Patrones.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Patrones.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Patrones.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Patrones.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Patrones.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Patrones.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Patrones.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Patrones.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Patrones.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Patrones.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Patrones.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Patrones.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Patrones.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Patrones.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EventManager/EvManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/EventManager/EvManager.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/List.h" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/List.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Node.h" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Node.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,12 +49,12 @@
     <property name="cf.first.check.clang-format" value="false" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="Patrones" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Patrones" TARGET_NAME="Patrones" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Patrones" RUN_TARGET_NAME="Patrones">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Patrones" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Patrones" TARGET_NAME="Patrones" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Patrones" RUN_TARGET_NAME="Patrones">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -97,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616309133538</updated>
       <workItem from="1616309136223" duration="15365000" />
+      <workItem from="1616400121026" duration="3381000" />
     </task>
     <servers />
   </component>
@@ -113,5 +91,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

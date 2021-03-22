@@ -7,6 +7,10 @@
 
 #include "../EventListener/Subscriber.h"
 
+/**
+ * Nodo vinculado a la clase Lista
+ */
+
 class Node {
     public:
         Node * next = NULL;
@@ -14,7 +18,6 @@ class Node {
         int id;
         Subscriber * sub;
         string name;
-
 };
 
 
