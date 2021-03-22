@@ -28,13 +28,13 @@ int main() {
 
 
 
-    LoggingManager loggingManeger;
-    loggingManeger.signIn("Pablo","pablo2");
-    loggingManeger.signIn("PabloA","pablo1");
-    loggingManeger.signIn("PabloA","pablo1");
-    loggingManeger.signIn("PabloA","pablo1");
-    loggingManeger.signIn("PabloA","pablo1");
-    loggingManeger.logging("PabloA","pablo1");
+    LoggingManager loggingManager;
+    loggingManager.signIn("Pablo", "manzana");
+    loggingManager.signIn("Antony", "pera");
+    loggingManager.signIn("Jose", "arrozconpollo");
+    loggingManager.signIn("Fabian", "computadora");
+
+    loggingManager.logging("Jose", "arrozconpollo");
 
 
 }

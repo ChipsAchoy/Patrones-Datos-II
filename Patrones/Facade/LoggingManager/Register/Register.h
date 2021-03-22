@@ -7,7 +7,10 @@
 #include <string>
 using namespace std;
 
-
+/***
+ * Esta clase serán los nodos para una lista de registros de usuario, donde se guardará la contraseña y usuario
+ * de cada uno
+ */
 class Register {
 
 private:
@@ -16,8 +19,6 @@ private:
 public:
     Register(string username, string password);
     Register* nextRegister;
-    void setUserName(string userName);
-    void setPassword(string password);
     string getUsername();
     string getPassword();
 
